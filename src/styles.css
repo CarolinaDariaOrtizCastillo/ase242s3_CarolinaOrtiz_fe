@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.titulo {
+  color: #6a0dad;          /* Color morado */
+  text-align: center;      /* Centrar texto */
+  font-size: 36px;         /* Tamaño grande */
+  font-family: Arial, sans-serif; /* Tipo de letra */
+  margin-top: 50px;        /* Espacio arriba */
+}
